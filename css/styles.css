@@ -10744,7 +10744,7 @@ body {
 @media (min-width: 992px) {
 	.projects-section .featured-text {
 		padding: 0 0 0 2rem;
-		border-left: 0.5rem solid #64a19d;
+		border-left: 0.5rem solid #4c7a77;
 	}
 }
 .projects-section .project-text {
@@ -10753,7 +10753,7 @@ body {
 }
 @media (min-width: 992px) {
 	.projects-section .project-text {
-		padding: 5rem;
+		padding: 3rem;
 	}
 	.projects-section .project-text hr {
 		border-color: #64a19d;
